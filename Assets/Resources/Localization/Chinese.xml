@@ -1,0 +1,34 @@
+<Localization>
+  <Entry>
+    <Key>Title</Key>
+    <Value>森林：除掉老鼠</Value>
+  </Entry>
+  <Entry>
+    <Key>Start</Key>
+    <Value>开始</Value>
+  </Entry>
+  <Entry>
+    <Key>Options</Key>
+    <Value>选项</Value>
+  </Entry>
+  <Entry>
+    <Key>Quit</Key>
+    <Value>退出</Value>
+  </Entry>
+  <Entry>
+		<Key>Language</Key>
+		<Value>语言：中文</Value>
+	</Entry>
+    <Entry>
+		<Key>Mice</Key>
+		<Value>已杀老鼠：</Value>
+	</Entry>
+    <Entry>
+		<Key>Die</Key>
+		<Value>你已死亡</Value>
+	</Entry>
+  <Entry>
+		<Key>Win</Key>
+		<Value>你赢了！</Value>
+	</Entry>
+</Localization>

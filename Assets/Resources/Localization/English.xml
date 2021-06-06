@@ -1,0 +1,34 @@
+<Localization>
+  <Entry>
+    <Key>Title</Key>
+    <Value>Forest: Kill the Mice</Value>
+  </Entry>
+  <Entry>
+    <Key>Start</Key>
+    <Value>Start</Value>
+  </Entry>
+  <Entry>
+    <Key>Options</Key>
+    <Value>Options</Value>
+  </Entry>
+  <Entry>
+    <Key>Quit</Key>
+    <Value>Quit</Value>
+  </Entry>
+    <Entry>
+		<Key>Language</Key>
+		<Value>Language: English</Value>
+    </Entry>
+    <Entry>
+		<Key>Mice</Key>
+		<Value>Mice Killed:</Value>
+    </Entry>
+    <Entry>
+		<Key>Die</Key>
+		<Value>You Died!</Value>
+    </Entry>
+    <Entry>
+		<Key>Win</Key>
+		<Value>You Win!</Value>
+    </Entry>
+</Localization>
